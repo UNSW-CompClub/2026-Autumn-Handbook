@@ -1,4 +1,4 @@
-# Lab — Recreating Mondrian-Style Paintings 🟥🟦🟨
+# Lab — Recreating Mondrian-Style Paintings 🟥🟦🟨 (200 Points)
 
 ## What You'll Make
 
@@ -44,7 +44,7 @@ Piet Mondrian was a Dutch artist who developed a style called **Neoplasticism** 
 
 ---
 
-## Exercise
+## Exercise (50 Points)
 
 ### Step 1 — Set Up the Canvas
 
@@ -124,7 +124,7 @@ Move your rectangles around, resize them, and keep tweaking until you're happy w
 
 ---
 
-## Extension Tasks
+## Extension Tasks (50 Points)
 
 Once your basic composition is working, push it further:
 
@@ -133,7 +133,7 @@ Once your basic composition is working, push it further:
 
 ---
 
-## Challenge Activity
+## Challenge Activity (100 Points)
 
 Make a **random Mondrian generator**, where the colours are randomised each time the program is run. Keep in mind you're still constrained to red, blue, yellow, and white!
 
