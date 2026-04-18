@@ -1,4 +1,4 @@
-# Lab — Bouncing Ball Simulation
+# Lab — Bouncing Ball Simulation (500)
 
 ## What You'll Make
 
@@ -122,14 +122,14 @@ function mouseReleased() {
 
 ## Requirements
 
-### Gravity and Movement
+### Gravity and Movement (100)
 
 Add code inside `draw()` to make the ball fall:
 
 - [ ] Each frame, increase `vy` by `gravity`
 - [ ] Each frame, update `y` using `vy`
 
-### Bouncing
+### Bouncing (100)
 
 Still inside `draw()`, add code to make the ball bounce:
 
@@ -156,7 +156,7 @@ Add code to the mouse functions to handle dragging:
 
 ---
 
-## Extension Tasks
+## Extension Tasks (150)
 
 Once the ball is working, try these additions:
 
@@ -167,7 +167,7 @@ Once the ball is working, try these additions:
 
 ---
 
-## Challenge Activity
+## Challenge Activity (150)
 
 Add a **trail effect** behind the ball as it moves. The trail should fade out behind the ball and disappear when the ball is being dragged.
 
