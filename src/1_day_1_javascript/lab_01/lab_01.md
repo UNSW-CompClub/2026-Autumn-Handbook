@@ -1,4 +1,4 @@
-# Shapes & the Canvas
+# Shapes & the Canvas (100 Points)
 
 ## What You'll Learn
 
@@ -52,7 +52,7 @@ The canvas is a grid of pixels. The **top left corner is (0, 0)**. X increases t
 
 ## Exercises
 
-### Exercise 1 — Hello Canvas
+### Exercise 1 — Hello Canvas (25 Points)
 
 Create a new sketch and paste this starter code:
 
@@ -72,7 +72,7 @@ Run it. You should see a grey square. This is your canvas!
 
 ---
 
-### Exercise 2 — Draw Some Shapes
+### Exercise 2 — Draw Some Shapes (25 Points)
 
 Add the following shapes inside `draw()`, below `background(220)`:
 
@@ -97,7 +97,7 @@ circle(200, 300, 90);
 
 ---
 
-### Exercise 3 — Build a Simple Face
+### Exercise 3 — Build a Simple Face (25 Points)
 
 Using only basic shapes, draw a simple face on the canvas. Your face should include:
 
@@ -126,7 +126,7 @@ circle(160, 170, 30);
 
 ---
 
-### Exercise 4 — Challenge: A Simple Scene
+### Exercise 4 — Challenge: A Simple Scene (25 Points)
 
 Draw a simple outdoor scene using only shapes. It could include:
 
