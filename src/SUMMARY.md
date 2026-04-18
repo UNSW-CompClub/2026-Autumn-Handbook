@@ -8,7 +8,7 @@
   - [Lab 04](1_day_1_javascript/lab_04/lab_04.md)
   - [Feedback Form](1_day_1_javascript/feedback_form/feedback_form.md)
 
-- 🍁 DAY 2 - ADVANCED p5.js 🍁
+- [🍁 DAY 2 - ADVANCED p5.js 🍁](1_day_2_p5js/main.md)
   - [Lab 01](1_day_2_p5js/lab_01/lab_01.md)
   - [Lab 02](1_day_2_p5js/lab_02/lab_02.md)
 
