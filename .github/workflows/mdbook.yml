@@ -25,8 +25,7 @@ jobs:
           rustup update
           cargo install mdbook
           cargo install mdbook-callouts
-          cargo install mdbook-admonish        # added
-          mdbook-admonish install .            # copies assets, required at build time
+          cargo install mdbook-admonish
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
