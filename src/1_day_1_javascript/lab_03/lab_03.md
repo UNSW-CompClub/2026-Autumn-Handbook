@@ -1,4 +1,4 @@
-# Lab — Polka Dottys 🎨
+# Lab — Polka Dottys 🎨 (350 Points)
 
 ## What You'll Make
 
@@ -60,7 +60,7 @@ function setup() {
 
 ## Part 1 — Polka Dots
 
-### Step 1 — Set Up Event-Driven Mode
+### Step 1 — Set Up Event-Driven Mode (50 Points)
 
 Start with this skeleton. Notice there is no `draw()` function (we won't be using it):
 
@@ -78,7 +78,7 @@ function mousePressed() {
 
 ---
 
-### Step 2 — Spawn a Dot on Click
+### Step 2 — Spawn a Dot on Click (50 Points)
 
 Inside `mousePressed()`, draw a circle where the mouse is:
 
@@ -92,7 +92,7 @@ Click around the canvas. A dot should appear wherever you click!
 
 ---
 
-### Step 3 — Vary the Size
+### Step 3 — Vary the Size (50 Points)
 
 Make each dot a random size by replacing the fixed diameter with `random()`:
 
@@ -106,7 +106,7 @@ Try clicking around: each dot should now be a different size!
 
 ---
 
-### Step 4 — Vary the Colour
+### Step 4 — Vary the Colour (50 Points)
 
 Write a helper function that picks and applies a random colour, then call it before drawing each dot:
 
@@ -129,7 +129,7 @@ function randomColour() {
 
 ## Part 2 — Extension
 
-### Step 1 — Change Base Colour with Number Keys
+### Step 1 — Change Base Colour with Number Keys (50 Points)
 
 Add a global `baseColour` variable and a `keyPressed()` function that changes it when the user presses a number key:
 
@@ -164,7 +164,7 @@ function keyPressed() {
 
 ---
 
-### Step 2 — Show the Currently Selected Colour
+### Step 2 — Show the Currently Selected Colour (50 Points)
 
 Draw a small reference dot in a corner of the canvas so the user can always see which colour is active. We will update it every time the colour changes:
 
@@ -185,7 +185,7 @@ Call `showSelectedColour()` at the end of both `setup()` and `keyPressed()` so i
 
 ---
 
-### Step 3 — Add Colour Variance to Each Dot
+### Step 3 — Add Colour Variance to Each Dot (50 Points)
 
 Instead of fully random colours, add a small random offset to the channels of `baseColour`. This keeps dots recognisably in the right colour family while adding natural variation:
 
