@@ -1,4 +1,4 @@
-# Lab — MS Paint 🎨 (150 points)
+# Lab — MS Paint 🎨 (500 points)
 
 ## What You'll Make
 
@@ -42,7 +42,7 @@ By the end of this lab you will be able to:
 
 ## Part 1 — Polka Dots
 
-### Step 1 — Set up our canvas (20 points)
+### Step 1 — Set up our canvas (50 points)
 
 Start with this base. Notice we don't set the background every frame, because we want our lines to persist.
 
@@ -59,7 +59,7 @@ function draw() {
 
 ---
 
-### Step 2 — Draw simple lines (30 points)
+### Step 2 — Draw simple lines (50 points)
 
 Using `mouseX`, `mouseY`, `pmouseX` and `pmouseY`, in `draw()`, draw a line between where the mouse was last frame and where it is this frame. 
 
@@ -106,7 +106,7 @@ function keyPressed() {
 
 ---
 
-### Step 2 - Mirroring (150 points)
+### Step 2 - Mirroring (100 points)
 
 Some paint programs have a mode where they mirror your lines vertically or horizontally. Replicate this feature! At first, just make every line mirrored. 
 
@@ -119,7 +119,7 @@ Then, add extra `line` calls to draw these in.
 
 ---
 
-### Step 3 — Toggleable mirroring (100 points)
+### Step 3 — Toggleable mirroring (150 points)
 
 Like how we made our stroke weight variable with a global variable, make the mirroring toggleable! If you want to get really fancy, make both the horizontal and vertical mirroing toggleable independantly.
 
