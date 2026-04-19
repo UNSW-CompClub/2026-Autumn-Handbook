@@ -50,7 +50,6 @@ Start with this base. Notice we don't set the background every frame, because we
 function setup() {
   createCanvas(500, 500);
   background(255);
-  noLoop();
 }
 
 function draw() {
